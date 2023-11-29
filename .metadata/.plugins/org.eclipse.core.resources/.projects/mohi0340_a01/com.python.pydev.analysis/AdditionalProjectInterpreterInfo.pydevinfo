@@ -1,0 +1,39 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\Usama Mohiuddin\Documents\CP104\.metadata\.plugins\org.eclipse.core.resources\.projects\mohi0340_a01\com.python.pydev.analysis\v2_indexcache
+t01|1632627168687745900|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a01\src\t01.py
+t03|1632362640652463300|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a01\src\t03.py
+t02|1632363516055638900|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a01\src\t02.py
+t05|1632363516635904100|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a01\src\t05.py
+t04|1632363516371584100|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a01\src\t04.py
+-- END DISKCACHE
+-- START DICTIONARY
+8
+3=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a01\src\t02.py
+7=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a01\src\t03.py
+8=t03
+4=t02
+1=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a01\src\t05.py
+2=t05
+5=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a01\src\t04.py
+6=t04
+-- END DICTIONARY
+-- START TREE 1
+13
+a|1|a!1^19#1*19@
+age|1|age!3^13#1*35@
+ban|1|band!3^14#1*35@
+cos|1|cost_one_burr!5^13#1*51@
+kil|1|kilometres!7^17#1*67@
+mil|1|miles!7^14#1*67@
+mkc|1|MKCONVERSION!7^12#1*67@
+n|1|n!1^16#1*19@
+num|1|num_burr!5^14#1*51@
+p|1|p!1^13#1*19@
+r|1|r!1^14#1*19@
+t|1|t!1^15#1*19@
+tot|1|total_burr!5^17#1*51@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

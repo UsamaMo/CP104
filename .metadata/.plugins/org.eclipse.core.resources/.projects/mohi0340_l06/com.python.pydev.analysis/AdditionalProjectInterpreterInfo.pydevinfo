@@ -1,0 +1,45 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\Usama Mohiuddin\Documents\CP104\.metadata\.plugins\org.eclipse.core.resources\.projects\mohi0340_l06\com.python.pydev.analysis\v2_indexcache
+t10|1635560525117789900|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l06\src\t10.py
+functions|1635560935955594500|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l06\src\functions.py
+t01|1635604614228883700|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l06\src\t01.py
+t05|1635560523832126600|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l06\src\t05.py
+t15|1635561398173780900|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l06\src\t15.py
+t09|1635560824208961000|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l06\src\t09.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+1=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l06\src\functions.py
+4=t10
+7=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l06\src\t09.py
+2=functions
+12=t01
+3=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l06\src\t10.py
+11=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l06\src\t01.py
+5=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l06\src\t05.py
+6=t05
+10=t15
+9=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l06\src\t15.py
+8=t09
+-- END DICTIONARY
+-- START TREE 1
+14
+bot|1|bottles_of_beer!1^59#5*18@
+bur|1|burnt_per_minute!3^16#1*35@
+cha|1|char!5^18#1*51@
+dra|1|draw_rectangle!1^35#5*18@
+end|1|end!3^18#1*35@
+hei|1|height!5^16#1*51@
+inc|1|inc!3^19#1*35@
+n|2|n!7^11#1*67@n!9^16#1*83@
+num|1|num!11^15#1*99@
+sta|2|start!3^17#1*35@statistics!1^107#5*18@
+sum|1|sum_even!1^15#5*18@
+tot|1|total!11^18#1*99@
+tre|1|treadmill!1^84#5*18@
+wid|1|width!5^17#1*51@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

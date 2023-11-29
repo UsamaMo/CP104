@@ -1,0 +1,23 @@
+"""
+-------------------------------------------------------
+[Lab 2, Task 6]
+-------------------------------------------------------
+Author:  Usama Mohiuddin
+ID:           212090340
+Email:     mohi0340@mylaurier.ca
+__updated__ = "2021-09-20"
+-------------------------------------------------------
+"""
+
+mortgageprin = (input("Mortgage Principal ($):"))
+numyears = (input("Number of Years:"))
+yrinterest = (input("Yearly Interest Rate (%):"))
+
+#p=monthly interest
+#n=monthly payments
+monthlyinterest= yrinterest/12
+numpaymentmonth= numyears*12
+
+totalmonthly= mortgageprin(monthlyinterest(1+monthly interest)**numpaymentmonth/(1+monthlyinterest)**numpaymentmonth-1)
+print(
+    "The Monthly Payments Are: ($)",totalmonthly)

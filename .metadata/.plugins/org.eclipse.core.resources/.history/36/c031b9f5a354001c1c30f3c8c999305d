@@ -1,0 +1,19 @@
+"""
+-------------------------------------------------------
+[program description]
+-------------------------------------------------------
+Author:  Usama Mohiuddin
+ID:           212090340
+Email:     mohi0340@mylaurier.ca
+__updated__ = "2021-12-03"
+-------------------------------------------------------
+"""
+
+from functions import generate_matrix_char
+
+rows = int(input('Enter the number of rows: '))
+cols = int(input('Enter the number of cols: '))
+
+matrix = generate_matrix_char(rows, cols)
+
+print(f'Randomly generated matrix: {matrix}')

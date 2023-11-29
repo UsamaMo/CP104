@@ -1,0 +1,208 @@
+"""
+-------------------------------------------------------
+[Lab 7 Functions]
+-------------------------------------------------------
+Author:  Usama Mohiuddin
+ID:           212090340
+Email:     mohi0340@mylaurier.ca
+__updated__ = "2021-11-05"
+-------------------------------------------------------
+"""
+# import
+from random import randint
+
+# constants
+OVERTIME = 40
+OVERTIMERATE = 1.5
+TAXRATE = 0.03625
+
+# functions
+
+
+def hi_lo_game(high):
+    """
+    -------------------------------------------------------
+    Plays a random higher-lower guessing game.
+    Use: count = hi_lo_game(high)
+    -------------------------------------------------------
+    Parameters:
+        high - maximum random value (int > 1)
+    Returns:
+        count - the number of guesses the user made (int)
+    -------------------------------------------------------
+    """
+
+    number = randint(1, high)
+    count = 0
+    guess = 0
+
+    while guess = number:
+        guess = int(input("Guess: "))
+        count = count + 1
+
+        if guess > number:
+            print("Too high, try again.")
+        elif guess < number:
+            print("Too low, try again.")
+        else:
+            print("Congratulations")
+
+    return count
+
+
+def power_of_two(target):
+    """
+    -------------------------------------------------------
+    Determines the nearest power of 2 greater than or equal to
+    a given target.
+    Use: power = power_of_two(target)
+    -------------------------------------------------------
+    Parameters:
+        target - value to find nearest power of 2 (int >= 0)
+    Returns:
+        power - first power of 2 >= target (int)
+    -------------------------------------------------------
+    """
+
+    exponent = 1
+    power = 1
+
+    while target > power:
+        power = 2**exponent
+
+        if power < target:
+            exponent = exponent + 1
+
+    while target <= power:
+        return power
+
+
+def sum_squares(target):
+    """
+    -------------------------------------------------------
+    Determines the sum of squares closest to, and greater than or
+    equal to, a target value.
+    Use: final = sum_squares(target)
+    -------------------------------------------------------
+    Parameters:
+        target - target value (int >= 0)
+    Returns:
+        final - the final sum of squares >= target (int)
+    -------------------------------------------------------
+    """
+
+    i = 1
+    final = 0
+
+    while final <= target:
+        final += i**2
+        i += 1
+
+    return final
+
+
+def meal_costs():
+    """
+    -------------------------------------------------------
+    Asks a user the costs of breakfast, lunch, and supper for each
+    day the user was away. Assumes there is at least one day, and
+    after entering data for each day asks the user whether they want
+    to enter data for another day. Calculates total costs for meals.
+    Use: b_total, l_total, s_total, a_total = meal_costs()
+    -------------------------------------------------------
+    Returns:
+        b_total - total breakfasts cost (float)
+        l_total - total lunches cost (float)
+        s_total - total suppers cost (float)
+        a_total - all meals cost (float)
+    ------------------------------------------------------
+    """
+    away = "Y"
+    days = 1
+    b_total = 0
+    l_total = 0
+    s_total = 0
+    while away == "Y":
+        print(f'For Day {days}')
+        print()
+
+        breakfast = float(input("How much was breakfast? $"))
+        lunch = float(input("How much was lunch? $"))
+        supper = float(input("How much was supper? $"))
+
+        b_total += breakfast
+        l_total += lunch
+        s_total += supper
+
+        total = breakfast + lunch + supper
+
+        print(f'Your total for the day was ${total:,.2f}')
+        print()
+        away = input("Were you away another day (Y/N)? ")
+        print()
+        days += 1
+
+    a_total = b_total + l_total + s_total
+
+    print(f"""Total:
+Breakfast:   $ {b_total:>6.2f}
+Lunch:       $ {l_total:>6.2f}
+Supper:      $ {s_total:>6.2f}""")
+    print()
+    print(f'Grand total: ${a_total:,.2f}')
+    return b_total, l_total, s_total, a_total
+
+
+def employee_payroll():
+    """
+    -------------------------------------------------------
+    Calculates and returns the weekly employee payroll for all employees
+    in an organization. For each employee, ask the user for the employee ID
+    number, the hourly wage rate, and the number of hours_worked worked during a week.
+    An employee number of zero indicates the end of user input.
+    Each employee is paid 1.5 times their regular hourly rate for all hours_worked
+    over 40. A tax amount of 3.625 percent of gross salary is deducted.
+    Use: total, average = employee_payroll()
+    -------------------------------------------------------
+    Returns:
+        total - total net employee wages (i.e. after taxes) (float)
+        average - average employee net wages (float)
+    ------------------------------------------------------
+    """
+    employee_count = 0
+    total = 0
+    id_number = int(input("Employee ID: "))
+
+    while id_number != 0:
+        employee_count = employee_count + 1
+        hourly = int(input("Hourly wage rate: "))
+        hours_worked = int(input("Hours worked: "))
+
+        overtime_hours = hours_worked - OVERTIME
+        if hours_worked < OVERTIME:
+            net_pay = (hourly * hours_worked) * (1 - TAXRATE)
+            print(
+                f'Net Payment for employee {id_number}: ${net_pay:,.2f}')
+            print()
+            id_number = int(input("Employee ID: "))
+        elif hours_worked > OVERTIME:
+            net_pay = (
+                (OVERTIMERATE * (overtime_hours)) + OVERTIME) * hourly * (1 - TAXRATE)
+            print(
+                f'Net Payment for employee {id_number}: ${net_pay:,.2f}')
+            print()
+            id_number = int(input("Employee ID: "))
+        else:
+            net_payment = (hourly * hours_worked) * (1 - TAXRATE)
+            print(
+                f'Net Payment for employee {id_number}: ${net_payment:,.2f}')
+            print()
+            id_number = int(input("Employee ID: "))
+
+        total = total + net_pay
+    average = total / employee_count
+    print()
+    print(f"""Total payment:   $ {total:>6,.2f}
+Average payment: $ {average:>6,.2f}""")
+
+    return total, average

@@ -1,0 +1,40 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\Usama Mohiuddin\Documents\CP104\.metadata\.plugins\org.eclipse.core.resources\.projects\mohi0340_a06\com.python.pydev.analysis\v2_indexcache
+functions|1636989699609085700|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a06\src\functions.py
+t01|1636989739446956900|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a06\src\t01.py
+t03|1636967635300320700|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a06\src\t03.py
+t02|1636967635826913100|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a06\src\t02.py
+t05|1636967634825644200|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a06\src\t05.py
+t04|1636967634449114700|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a06\src\t04.py
+-- END DISKCACHE
+-- START DICTIONARY
+10
+7=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a06\src\t02.py
+1=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a06\src\t04.py
+4=functions
+9=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a06\src\t03.py
+10=t03
+5=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a06\src\t05.py
+8=t02
+6=t05
+2=t04
+3=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a06\src\functions.py
+-- END DICTIONARY
+-- START TREE 1
+11
+cou|1|count!1^19#1*19@
+dig|1|digit_count!3^120#5*34@
+int|1|interest_table!3^78#5*34@
+is_|1|is_prime!3^48#5*34@
+num|3|num!1^16#1*19@num!5^16#1*51@num!7^16#1*67@
+pay|1|payment!9^18#1*83@
+pri|2|prime!7^19#1*67@principal!9^16#1*83@
+rat|1|rate!9^17#1*83@
+sum|1|sum_factors!3^148#5*34@
+tot|1|total!5^19#1*51@
+win|1|winner!3^17#5*34@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

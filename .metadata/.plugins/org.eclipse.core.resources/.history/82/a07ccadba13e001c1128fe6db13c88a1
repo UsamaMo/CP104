@@ -1,0 +1,16 @@
+"""
+-------------------------------------------------------
+[Task 10]
+-------------------------------------------------------
+Author:  Usama Mohiuddin
+ID:           212090340
+Email:     mohi0340@mylaurier.ca
+__updated__ = "2021-11-05"
+-------------------------------------------------------
+"""
+
+
+from functions import employee_payroll
+
+
+total, average = employee_payroll()

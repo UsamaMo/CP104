@@ -1,0 +1,22 @@
+"""
+-------------------------------------------------------
+[program description]
+-------------------------------------------------------
+Author:  Usama Mohiuddin
+ID:           212090340
+Email:     mohi0340@mylaurier.ca
+__updated__ = "2021-12-03"
+-------------------------------------------------------
+"""
+
+from functions import scalar_multiply
+
+
+matrix = [[6954, 345, 3697], [9279, 9892, 9094]]
+num = 2
+
+print(f'Matrix (without scalar multiplication: {matrix} ')
+
+scalar_multiply(matrix, num)
+
+print(f'Matrix (with scalar multiplication: {matrix}')

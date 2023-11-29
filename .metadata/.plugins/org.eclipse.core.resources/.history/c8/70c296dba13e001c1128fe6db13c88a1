@@ -1,0 +1,20 @@
+"""
+-------------------------------------------------------
+[Task 1]
+-------------------------------------------------------
+Author:  Usama Mohiuddin
+ID:           212090340
+Email:     mohi0340@mylaurier.ca
+__updated__ = "2021-11-05"
+-------------------------------------------------------
+"""
+from random import randint
+
+from functions import hi_lo_game
+
+high = randint(1, 100)
+
+
+count = hi_lo_game(high)
+
+print(f"You made {count} guesses.")

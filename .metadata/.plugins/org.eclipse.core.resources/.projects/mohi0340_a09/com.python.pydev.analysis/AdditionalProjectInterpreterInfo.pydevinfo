@@ -1,0 +1,43 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\Usama Mohiuddin\Documents\CP104\.metadata\.plugins\org.eclipse.core.resources\.projects\mohi0340_a09\com.python.pydev.analysis\v2_indexcache
+functions|1638802393658184400|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a09\src\functions.py
+t01|1638762482718565100|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a09\src\t01.py
+t03|1638762493305031200|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a09\src\t03.py
+t02|1638762482372957600|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a09\src\t02.py
+t05|1638762526425644000|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a09\src\t05.py
+t04|1638762526762957100|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a09\src\t04.py
+t06|1638802394085568400|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a09\src\t06.py
+-- END DISKCACHE
+-- START DICTIONARY
+14
+1=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a09\src\t06.py
+10=functions
+11=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a09\src\t04.py
+13=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a09\src\t05.py
+7=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a09\src\t01.py
+5=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a09\src\t03.py
+3=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a09\src\t02.py
+8=t01
+6=t03
+4=t02
+14=t05
+12=t04
+2=t06
+9=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a09\src\functions.py
+-- END DICTIONARY
+-- START TREE 1
+9
+add|1|addresses!1^18#1*19@
+fh|4|fh!3^15#1*35@fh!5^16#1*51@fh!7^16#1*67@fh!1^15#1*19@
+fil|3|file_integers!9^42#5*82@file_stats!9^68#5*82@file_head!9^15#5*82@
+fla|2|flat!11^19#1*99@flatten!9^99#5*82@
+get|1|get_addresses!9^148#5*82@
+lin|1|linecount!7^17#1*67@
+mat|3|matrix_rotate_right!9^123#5*82@matrix!13^16#1*115@matrix!11^16#1*99@
+num|1|numbers!3^18#1*35@
+rot|1|rotated!13^19#1*115@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

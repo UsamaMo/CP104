@@ -1,0 +1,15 @@
+"""
+-------------------------------------------------------
+[program description]
+-------------------------------------------------------
+Author:  Usama Mohiuddin
+ID:           212090340
+Email:     mohi0340@mylaurier.ca
+__updated__ = "2021-11-05"
+-------------------------------------------------------
+"""
+
+from functions import meal_costs
+
+# outputs
+b_total, l_total, s_total, a_total = meal_costs()

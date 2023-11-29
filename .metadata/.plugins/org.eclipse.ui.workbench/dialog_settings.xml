@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ImportExportAction">
+		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.ui.wizards.import.Preferences"/>
+		<item key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID" value="org.eclipse.ui.wizards.export.ZipFile"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+	</section>
+	<section name="PreferencesImportWizard">
+		<item key="" value="C:\Users\Usama Mohiuddin\Downloads\cp104_prefs.epf"/>
+		<list key="WizardPreferencesExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="C:\Users\Usama Mohiuddin\Downloads\cp104_prefs.epf"/>
+		</list>
+	</section>
+	<section name="ZipFileExportWizard">
+		<item key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID" value="true"/>
+		<item key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID" value="true"/>
+		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a09\src\__pycache__\mohi0340_a09.zip"/>
+			<item value="C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l11\src\__pycache__\mohi0340_l11.zip"/>
+			<item value="C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a08\src\__pycache__\mohi0340_a08.zip"/>
+			<item value="C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l10\src\__pycache__\mohi0340_l10.zip"/>
+			<item value="C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a07\src\__pycache__\mohi0340_a07.zip"/>
+			<item value="C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l09\src\__pycache__\mohi0340_l09.zip"/>
+			<item value="C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a06\src\__pycache__\mohi0340_a06.zip"/>
+			<item value="C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l08\src\__pycache__\mohi0340_l08.zip"/>
+			<item value="C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a05\src\__pycache__\mohi0340_a05.zip"/>
+			<item value="C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l07\src\__pycache__\mohi0340_l07.zip"/>
+			<item value="C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l06\src\__pycache__\mohi0340_l06.zip"/>
+			<item value="C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a04\src\__pycache__\mohi0340_a04.zip"/>
+			<item value="C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l05\src\__pycache__\mohi0340_l05.zip"/>
+			<item value="C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a03\src\__pycache__\mohi0340_a03.zip"/>
+			<item value="C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l04\src\__pycache__\mohi0340_l04.zip"/>
+			<item value="C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a02\src\mohi0340_a02.zip"/>
+			<item value="C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l03\src\mohi0340_l03.zip"/>
+			<item value="C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a01\src\mohi0340_a01.zip"/>
+			<item value="C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l02\src\mohi0340_l02.zip"/>
+			<item value="C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l01\src\__pycache__\mohi0340_l01.zip"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+	<section name="ZipFileImportWizard">
+	</section>
+</section>

@@ -1,0 +1,62 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\Usama Mohiuddin\Documents\CP104\.metadata\.plugins\org.eclipse.core.resources\.projects\practice midterm\com.python.pydev.analysis\v2_indexcache
+t10|1635603588499323300|C:\Users\Usama Mohiuddin\Documents\CP104\practice midterm\src\t10.py
+functions|1635604560481217300|C:\Users\Usama Mohiuddin\Documents\CP104\practice midterm\src\functions.py
+t01|1635598987860536600|C:\Users\Usama Mohiuddin\Documents\CP104\practice midterm\src\t01.py
+t03|1635600086210745200|C:\Users\Usama Mohiuddin\Documents\CP104\practice midterm\src\t03.py
+t02|1635599304783496700|C:\Users\Usama Mohiuddin\Documents\CP104\practice midterm\src\t02.py
+t05|1635600885257317100|C:\Users\Usama Mohiuddin\Documents\CP104\practice midterm\src\t05.py
+t04|1635600835832641600|C:\Users\Usama Mohiuddin\Documents\CP104\practice midterm\src\t04.py
+t15|1635641680911490600|C:\Users\Usama Mohiuddin\Documents\CP104\practice midterm\src\t15.py
+t07|1635602146156965800|C:\Users\Usama Mohiuddin\Documents\CP104\practice midterm\src\t07.py
+t06|1635601402694390900|C:\Users\Usama Mohiuddin\Documents\CP104\practice midterm\src\t06.py
+t09|1635602956577579500|C:\Users\Usama Mohiuddin\Documents\CP104\practice midterm\src\t09.py
+t08|1635602712689670500|C:\Users\Usama Mohiuddin\Documents\CP104\practice midterm\src\t08.py
+-- END DISKCACHE
+-- START DICTIONARY
+22
+2=functions
+17=C:\Users\Usama Mohiuddin\Documents\CP104\practice midterm\src\t15.py
+1=C:\Users\Usama Mohiuddin\Documents\CP104\practice midterm\src\functions.py
+7=C:\Users\Usama Mohiuddin\Documents\CP104\practice midterm\src\t06.py
+4=t10
+11=C:\Users\Usama Mohiuddin\Documents\CP104\practice midterm\src\t03.py
+20=t01
+3=C:\Users\Usama Mohiuddin\Documents\CP104\practice midterm\src\t10.py
+13=C:\Users\Usama Mohiuddin\Documents\CP104\practice midterm\src\t09.py
+21=C:\Users\Usama Mohiuddin\Documents\CP104\practice midterm\src\t02.py
+5=C:\Users\Usama Mohiuddin\Documents\CP104\practice midterm\src\t07.py
+12=t03
+15=C:\Users\Usama Mohiuddin\Documents\CP104\practice midterm\src\t04.py
+9=C:\Users\Usama Mohiuddin\Documents\CP104\practice midterm\src\t05.py
+22=t02
+10=t05
+16=t04
+18=t15
+19=C:\Users\Usama Mohiuddin\Documents\CP104\practice midterm\src\t01.py
+6=t07
+8=t06
+14=t09
+-- END DICTIONARY
+-- START TREE 1
+15
+bot|1|bottles_of_beer!1^164#5*18@
+bur|1|burnt_per_minute!3^14#1*35@
+cha|3|char!5^14#1*51@char!7^15#1*67@char!9^14#1*83@
+dra|3|draw_rectangle!1^100#5*18@draw_triangle!1^123#5*18@draw_arrow!1^144#5*18@
+end|1|end!3^16#1*35@
+fin|1|finish!11^15#1*99@
+hei|2|height!9^12#1*83@height!7^14#1*67@
+inc|2|inc!3^17#1*35@increment!11^16#1*99@
+n|3|n!13^13#1*115@n!15^14#1*131@n!17^13#1*147@
+num|2|num!19^12#1*163@num!21^15#1*179@
+sta|3|start!11^14#1*99@start!3^15#1*35@statistics!1^212#5*18@
+sum|4|sum_all!1^54#5*18@sum_even!1^13#5*18@sum_odd!1^33#5*18@sum_partial_harmonic!1^77#5*18@
+tot|4|total!15^16#1*131@total!11^18#1*99@total!21^17#1*179@total!19^14#1*163@
+tre|1|treadmill!1^190#5*18@
+wid|2|width!5^13#1*51@width!9^13#1*83@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

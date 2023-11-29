@@ -1,0 +1,16 @@
+"""
+-------------------------------------------------------
+[Lab 2, Task 3]
+-------------------------------------------------------
+Author:  Usama Mohiuddin
+ID:         212090340
+Email:        mohi0340@mylaurier.ca
+__updated__ = "2021-09-20"
+-------------------------------------------------------
+"""
+Large = int(input("Number of Large Dogs Groomed: "))
+Small = int(input("Number of Small Dogs Groomed:"))
+
+Total = 75 * Large + 50 * Small
+print(
+    "Total Earned For The Day:  ($)", Total)

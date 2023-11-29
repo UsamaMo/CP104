@@ -1,0 +1,50 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\Usama Mohiuddin\Documents\CP104\.metadata\.plugins\org.eclipse.core.resources\.projects\mohi0340_l04\com.python.pydev.analysis\v2_indexcache
+functions|1633747225472218700|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l04\src\functions.py
+t01|1635522056560541100|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l04\src\t01.py
+t11|1633747224973282100|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l04\src\t11.py
+t14|1633747225860985500|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l04\src\t14.py
+t04|1633747227118187300|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l04\src\t04.py
+t07|1633747226322086700|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l04\src\t07.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+9=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l04\src\t14.py
+1=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l04\src\t04.py
+3=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l04\src\functions.py
+4=functions
+6=t01
+5=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l04\src\t01.py
+12=t11
+10=t14
+2=t04
+7=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l04\src\t07.py
+8=t07
+11=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l04\src\t11.py
+-- END DICTIONARY
+-- START TREE 1
+19
+bas|1|base!1^16#1*19@
+dia|2|diameter!3^13#5*34@diam!5^19#1*51@
+dim|1|dimes!7^17#1*67@
+hei|1|height!1^17#1*19@
+loo|1|loonies!7^19#1*67@
+nic|1|nickels!7^16#1*67@
+qua|1|quarters!7^18#1*67@
+rad|1|radius!5^16#1*51@
+sec|1|seconds!9^16#1*83@
+slo|1|slope!3^94#5*34@
+slp|1|slp!11^22#1*99@
+squ|1|square_pyramid!3^31#5*34@
+tim|1|time_values!3^122#5*34@
+too|1|toonies!7^20#1*67@
+tot|2|total_calculated_change!7^24#1*67@total_change!3^57#5*34@
+x1|1|x1!11^16#1*99@
+x2|1|x2!11^18#1*99@
+y1|1|y1!11^17#1*99@
+y2|1|y2!11^19#1*99@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

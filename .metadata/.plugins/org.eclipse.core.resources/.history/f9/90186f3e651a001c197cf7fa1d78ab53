@@ -1,0 +1,17 @@
+"""
+-------------------------------------------------------
+[Lab 2, Task 7]
+-------------------------------------------------------
+Author:  Usama Mohiuddin
+ID:           212090340
+Email:     mohi0340@mylaurier.ca
+__updated__ = "2021-09-20"
+-------------------------------------------------------
+"""
+numflyers = int(input("Number of Flyers:"))
+numvolunteers = int(input("Number of Volunteers:"))
+
+flyersper: numbflyers / numvolunteers
+
+print(
+    "The Number of Flyers Per", flyersper)

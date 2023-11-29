@@ -1,0 +1,27 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\Usama Mohiuddin\Documents\CP104\.metadata\.plugins\org.eclipse.core.resources\.projects\mohi0340_l01\com.python.pydev.analysis\v2_indexcache
+t02|1631572100532000000|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l01\src\t02.py
+t04|1631651835590196300|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l01\src\t04.py
+t06|1631573919503000000|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l01\src\t06.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+4=t02
+5=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l01\src\t04.py
+6=t04
+3=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l01\src\t02.py
+2=t06
+1=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l01\src\t06.py
+-- END DICTIONARY
+-- START TREE 1
+5
+bon|1|bonus!1^13#1*19@
+fun|1|func!3^16#5*34@
+nam|1|name!5^11#1*51@
+pay|1|pay!1^14#1*19@
+sal|1|salary!1^12#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

@@ -1,0 +1,27 @@
+"""
+-------------------------------------------------------
+[Lab 11, Task 6]
+-------------------------------------------------------
+Author:  Usama Mohiuddin
+ID:           212090340
+Email:     mohi0340@mylaurier.ca
+__updated__ = "2021-12-03"
+-------------------------------------------------------
+"""
+
+# import
+from functions import stats
+
+# input
+matrix = [[2, -3, -1], [-5, -1, -7], [-3, -10, 2], [-3, 4, -9]]
+
+# function
+smallest, largest, total, average = stats(matrix)
+
+
+# output
+print(f'Matrix: {matrix}')
+print(f'Smallest Values: {smallest}')
+print(f'Largest Values: {largest}')
+print(f'Total: {total}')
+print(f'average: {average:.2f}')

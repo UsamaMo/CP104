@@ -1,0 +1,44 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\Usama Mohiuddin\Documents\CP104\.metadata\.plugins\org.eclipse.core.resources\.projects\mohi0340_a04\com.python.pydev.analysis\v2_indexcache
+functions|1635149679341583700|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a04\src\functions.py
+t01|1635149710514471200|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a04\src\t01.py
+t03|1635150348102811000|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a04\src\t03.py
+t02|1635149679983871800|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a04\src\t02.py
+t05|1635149678950550500|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a04\src\t05.py
+t04|1635150075245878300|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a04\src\t04.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+9=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a04\src\t05.py
+1=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a04\src\t02.py
+6=t01
+8=functions
+5=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a04\src\t01.py
+12=t03
+2=t02
+3=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a04\src\t04.py
+11=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a04\src\t03.py
+10=t05
+4=t04
+7=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a04\src\functions.py
+-- END DICTIONARY
+-- START TREE 1
+13
+aqi|1|aqi!1^16#1*19@
+col|1|colour!3^19#1*35@
+day|2|day_number!5^16#1*51@day_of_week!7^15#5*66@
+lev|1|level!1^19#1*19@
+num|2|number!9^16#1*83@number!5^19#1*51@
+out|1|output!9^19#1*83@
+pol|1|pollution_level!7^46#5*66@
+pro|2|product_largest!7^82#5*66@product!11^21#1*99@
+rgb|3|rgb_mix!7^107#5*66@rgb2!3^16#1*35@rgb1!3^15#1*35@
+v1|1|v1!11^16#1*99@
+v2|1|v2!11^17#1*99@
+v3|1|v3!11^18#1*99@
+yee|1|yee_ha!7^152#5*66@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

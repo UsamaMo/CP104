@@ -1,0 +1,40 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\Usama Mohiuddin\Documents\CP104\.metadata\.plugins\org.eclipse.core.resources\.projects\mohi0340_a07\com.python.pydev.analysis\v2_indexcache
+functions|1637589451918504700|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a07\src\functions.py
+t01|1637570521453455300|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a07\src\t01.py
+t03|1637570522301186200|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a07\src\t03.py
+t02|1637570520828644700|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a07\src\t02.py
+t05|1637571329542580300|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a07\src\t05.py
+t04|1637589451386958900|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a07\src\t04.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+1=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a07\src\t01.py
+2=t01
+6=functions
+9=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a07\src\t02.py
+3=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a07\src\t03.py
+4=t03
+10=t02
+11=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a07\src\t05.py
+12=t05
+7=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a07\src\t04.py
+8=t04
+5=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a07\src\functions.py
+-- END DICTIONARY
+-- START TREE 1
+9
+fac|1|factors!1^19#1*19@
+ind|1|indexes!3^20#1*35@
+is_|1|is_sorted!5^112#5*50@
+lis|3|list_positives!5^37#5*50@list_indexes!5^63#5*50@list_factors!5^15#5*50@
+min|1|minuend!7^18#1*67@
+num|2|num!1^16#1*19@numbers!9^16#1*83@
+sub|2|subtrahend!7^21#1*67@subtract_lists!5^87#5*50@
+tar|1|target!3^17#1*35@
+val|2|values!11^16#1*99@values!3^16#1*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

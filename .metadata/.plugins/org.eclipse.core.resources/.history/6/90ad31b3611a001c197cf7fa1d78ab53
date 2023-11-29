@@ -1,0 +1,14 @@
+"""
+-------------------------------------------------------
+[Lab 2, Task 6]
+-------------------------------------------------------
+Author:  Usama Mohiuddin
+ID:           212090340
+Email:     mohi0340@mylaurier.ca
+__updated__ = "2021-09-20"
+-------------------------------------------------------
+"""
+
+mortgage = (input("Mortgage Principal ($):"))
+numyears = (input("Number of Years:"))
+yrinterest = (input("Yearly Interest Rate (%):"))

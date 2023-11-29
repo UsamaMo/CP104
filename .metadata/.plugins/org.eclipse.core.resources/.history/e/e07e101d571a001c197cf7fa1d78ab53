@@ -1,0 +1,23 @@
+"""
+-------------------------------------------------------
+[Lab 2,Task 1]
+-------------------------------------------------------
+Author:  Usama Mohiuddin
+ID:      212090340
+Email:   mohi0340@mylaurier.ca
+__updated__ = "2021-09-20"
+-------------------------------------------------------
+"""
+
+var = "Temperature Celsius "
+print(var)
+
+print(2)
+
+var = "Temperature Fahrenheit"
+print(var)
+
+print(77)
+
+Celsius= float(input("Enter the temeperature in Celsius (C): '))
+Fahrenheit= float(input("Enter the temperature in Fahrenheit (F): '))

@@ -1,0 +1,34 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\Usama Mohiuddin\Documents\CP104\.metadata\.plugins\org.eclipse.core.resources\.projects\mohi0340_l03\com.python.pydev.analysis\v2_indexcache
+t01|1633128012582327800|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l03\src\t01.py
+t11|1633339514996471800|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l03\src\t11.py
+t04|1633128012266611000|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l03\src\t04.py
+t15|1633139364212368600|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l03\src\t15.py
+t07|1633143084743646300|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l03\src\t07.py
+-- END DISKCACHE
+-- START DICTIONARY
+8
+5=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l03\src\t04.py
+8=t11
+4=t15
+6=t04
+2=t07
+7=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l03\src\t11.py
+1=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l03\src\t07.py
+3=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l03\src\t15.py
+-- END DICTIONARY
+-- START TREE 1
+8
+cos|4|cost_breakfast!1^12#1*19@cost_total!1^16#1*19@cost_lunch!1^13#1*19@cost_supper!1^14#1*19@
+dec|1|decimal!3^13#1*35@
+for|1|formula!5^17#1*51@
+int|1|integer!3^12#1*35@
+loc|3|location1!7^13#1*67@location2!7^14#1*67@location3!7^15#1*67@
+num|1|number!5^13#1*51@
+per|1|percent!5^14#1*51@
+phr|1|phrase!3^14#1*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

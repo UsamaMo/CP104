@@ -1,0 +1,43 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\Usama Mohiuddin\Documents\CP104\.metadata\.plugins\org.eclipse.core.resources\.projects\mohi0340_l10\com.python.pydev.analysis\v2_indexcache
+t10|1637983561302719300|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l10\src\t10.py
+functions|1637982837625163800|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l10\src\functions.py
+t01|1637983562389812300|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l10\src\t01.py
+t13|1637983560953556100|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l10\src\t13.py
+t05|1637983071800838700|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l10\src\t05.py
+t06|1637983561764485300|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l10\src\t06.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+3=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l10\src\t10.py
+4=t10
+2=functions
+5=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l10\src\t01.py
+6=t01
+7=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l10\src\t06.py
+11=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l10\src\t13.py
+12=t13
+10=t05
+9=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l10\src\t05.py
+8=t06
+1=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l10\src\functions.py
+-- END DICTIONARY
+-- START TREE 1
+12
+cou|2|count_frequency_word!1^104#5*18@count!3^27#1*35@
+cus|2|customer_record!1^15#5*18@customer_append!1^42#5*18@
+fh|4|fh!3^19#1*35@fh!5^21#1*51@fh!7^18#1*67@fh!9^16#1*83@
+fh1|1|fh1!11^16#1*99@
+fh2|1|fh2!11^17#1*99@
+fh_|2|fh_2!11^21#1*99@fh_1!11^20#1*99@
+fie|1|fields!9^19#1*83@
+fil|4|file_1!5^16#1*51@file_1!7^15#1*67@file_copy!1^132#5*18@file_1!3^16#1*35@
+n|1|n!5^24#1*51@
+num|1|number_stats!1^65#5*18@
+res|1|result!5^27#1*51@
+wor|1|word!3^24#1*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

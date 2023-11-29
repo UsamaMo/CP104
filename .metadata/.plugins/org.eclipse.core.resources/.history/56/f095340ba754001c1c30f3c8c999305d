@@ -1,0 +1,27 @@
+"""
+-------------------------------------------------------
+[Lab 11, Task 6]
+-------------------------------------------------------
+Author:  Usama Mohiuddin
+ID:           212090340
+Email:     mohi0340@mylaurier.ca
+__updated__ = "2021-12-03"
+-------------------------------------------------------
+"""
+
+# import
+from functions import stats
+
+# input
+matrix = [[6954, 345, 3697], [9279, 9892, 9094]]
+
+# function
+smallest, largest, total, average = stats(matrix)
+
+
+# output
+print(f'Matrix: {matrix}')
+print(f'Smallest Values: {smallest}')
+print(f'Largest Values: {largest}')
+print(f'Total: {total}')
+print(f'average: {average}')

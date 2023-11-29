@@ -1,0 +1,17 @@
+"""
+-------------------------------------------------------
+[Lab 2,Task 1]
+-------------------------------------------------------
+Author:  Usama Mohiuddin
+ID:      212090340
+Email:   mohi0340@mylaurier.ca
+__updated__ = "2021-09-20"
+-------------------------------------------------------
+"""
+
+
+Celsius = int(input("Enter the temeperature in Celsius (C): "))
+
+Fahrenheit = 9 / 5 * Celsius + 32
+
+print("The Amount of temperature in celsius is", Fahrenheit)

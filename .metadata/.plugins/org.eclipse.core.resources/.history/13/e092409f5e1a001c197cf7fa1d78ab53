@@ -1,0 +1,25 @@
+"""
+-------------------------------------------------------
+[Lab 2, Task 3]
+-------------------------------------------------------
+Author:  Usama Mohiuddin
+ID:         212090340
+Email:        mohi0340@mylaurier.ca
+__updated__ = "2021-09-20"
+-------------------------------------------------------
+"""
+# Calculates the Number of Dogs Groomed That Day
+NUMLARGEDOGS = int(input("Number of Large Dogs Groomed: "))
+NUMSMALLDOGS = int(input("Number of Small Dogs Groomed:"))
+
+# calculates the cost of the Large Dogs
+COSTFORLARGEDOG = 75 * NUMLARGEDOGS
+
+# calculates the cost of the Small Dogs
+COSTFORSMALLDOG = 50 * NUMSMALLDOGS
+
+
+# Calculates the Cost of both the large and small dogs groomed that day
+Total = COSTFORLARGEDOG + COSTFORSMALLDOG
+print(
+    "Total Earned For The Day:  ($)", Total)

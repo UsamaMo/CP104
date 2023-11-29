@@ -1,0 +1,20 @@
+"""
+-------------------------------------------------------
+[Lab 2,Task 1]
+-------------------------------------------------------
+Author:  Usama Mohiuddin
+ID:      212090340
+Email:   mohi0340@mylaurier.ca
+__updated__ = "2021-09-20"
+-------------------------------------------------------
+"""
+
+
+Celsius = float(input("Enter the temeperature in Celsius (C): "))
+Fahrenheit = float(input("Enter the temperature in Fahrenheit (F): "))
+print(
+    "The Amount of temperature in Celsius is ")
+f=Fahrenheit
+c=Celsius
+
+f=9/5c+32

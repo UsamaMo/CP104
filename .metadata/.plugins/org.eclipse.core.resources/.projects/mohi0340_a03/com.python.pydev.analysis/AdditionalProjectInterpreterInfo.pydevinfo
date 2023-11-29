@@ -1,0 +1,43 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\Usama Mohiuddin\Documents\CP104\.metadata\.plugins\org.eclipse.core.resources\.projects\mohi0340_a03\com.python.pydev.analysis\v2_indexcache
+functions|1634530995707787400|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a03\src\functions.py
+t01|1634530995369493700|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a03\src\t01.py
+t03|1634530994743135200|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a03\src\t03.py
+t02|1634530995071696800|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a03\src\t02.py
+t05|1634530994054105000|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a03\src\t05.py
+t04|1634530994422993500|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a03\src\t04.py
+-- END DISKCACHE
+-- START DICTIONARY
+10
+2=t01
+4=functions
+7=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a03\src\t04.py
+6=t03
+5=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a03\src\t03.py
+9=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a03\src\t02.py
+10=t02
+1=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a03\src\t01.py
+8=t04
+3=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a03\src\functions.py
+-- END DICTIONARY
+-- START TREE 1
+14
+acr|1|acres!1^19#1*19@
+dat|2|date_extract!3^58#5*34@date_number!5^16#1*51@
+den|2|denom2!7^19#1*67@denom1!7^17#1*67@
+fee|1|feet_to_acres!3^20#5*34@
+len|1|length!9^16#1*83@
+mat|1|math_quiz!3^105#5*34@
+mow|1|mow_lawn!3^38#5*34@
+mul|1|multiply_fractions!3^80#5*34@
+num|2|num2!7^18#1*67@num1!7^16#1*67@
+spe|1|speed!9^17#1*83@
+squ|1|square_footage!1^16#1*19@
+tim|1|time!9^20#1*83@
+val|1|VALUE!3^15#1*35@
+wid|1|width!9^15#1*83@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

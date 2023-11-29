@@ -1,0 +1,41 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\Usama Mohiuddin\Documents\CP104\.metadata\.plugins\org.eclipse.core.resources\.projects\mohi0340_l09\com.python.pydev.analysis\v2_indexcache
+t10|1637376838125155400|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l09\src\t10.py
+functions|1637378260003857700|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l09\src\functions.py
+t01|1637378260386837400|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l09\src\t01.py
+t03|1637376839267650400|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l09\src\t03.py
+t05|1637376838486217600|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l09\src\t05.py
+t04|1637376838908087900|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l09\src\t04.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+7=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l09\src\t05.py
+12=t10
+2=t01
+6=functions
+1=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l09\src\t01.py
+4=t03
+11=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l09\src\t10.py
+3=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l09\src\t03.py
+9=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l09\src\t04.py
+8=t05
+10=t04
+5=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l09\src\functions.py
+-- END DICTIONARY
+-- START TREE 1
+10
+che|1|chemical!1^16#1*19@
+cod|1|code!3^16#1*35@
+hyd|1|hydroxide!1^19#1*19@
+is_|1|is_hydroxide!5^15#5*50@
+par|1|parse_code!5^37#5*50@
+pas|2|password!7^15#1*67@password_strength!5^102#5*50@
+pro|1|product_code!9^16#1*83@
+tex|1|text_analyze!5^136#5*50@
+txt|1|txt!11^16#1*99@
+val|1|validate_code!5^63#5*50@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

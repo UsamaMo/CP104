@@ -1,0 +1,26 @@
+"""
+-------------------------------------------------------
+[Lab 11, Task 1]
+-------------------------------------------------------
+Author:  Usama Mohiuddin
+ID:           212090340
+Email:     mohi0340@mylaurier.ca
+__updated__ = "2021-12-03"
+-------------------------------------------------------
+"""
+
+# import
+from functions import generate_matrix_num
+
+# inputs
+rows = int(input('Enter the number of rows: '))
+cols = int(input('Enter the number of cols: '))
+low = float(input('Enter the minimum value: '))
+high = float(input('Enter the maximum value: '))
+value_type = input('Enter the type of values: ')
+
+# function
+matrix = generate_matrix_num(rows, cols, low, high, value_type)
+
+# output
+print(f'Randomly generated matrix: {matrix}')

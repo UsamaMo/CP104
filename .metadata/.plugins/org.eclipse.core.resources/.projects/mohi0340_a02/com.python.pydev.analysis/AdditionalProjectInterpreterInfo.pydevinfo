@@ -1,0 +1,46 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\Usama Mohiuddin\Documents\CP104\.metadata\.plugins\org.eclipse.core.resources\.projects\mohi0340_a02\com.python.pydev.analysis\v2_indexcache
+t01|1633340021905700700|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a02\src\t01.py
+t03|1635525451378024600|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a02\src\t03.py
+t02|1665092077929519200|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a02\src\t02.py
+t05|1633339621343178900|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a02\src\t05.py
+t04|1633340021637959100|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a02\src\t04.py
+-- END DISKCACHE
+-- START DICTIONARY
+10
+10=t01
+3=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a02\src\t05.py
+1=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a02\src\t02.py
+6=t03
+2=t02
+9=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a02\src\t01.py
+4=t05
+5=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a02\src\t03.py
+7=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_a02\src\t04.py
+8=t04
+-- END DICTIONARY
+-- START TREE 1
+18
+bas|1|BASE!1^13#1*19@
+bri|3|bricks_needed!3^23#1*35@brick_cost!3^24#1*35@brick!3^18#1*35@
+con|3|concrete_needed!3^21#1*35@concrete!3^17#1*35@concrete_cost!3^22#1*35@
+day|1|day!5^16#1*51@
+dig|3|digit_r!1^20#1*19@digit10!1^19#1*19@digit!1^16#1*19@
+fin|1|final!1^24#1*19@
+hei|1|height!3^15#1*35@
+lef|1|leftover_balloon!7^18#1*67@
+len|1|length!3^13#1*35@
+mon|1|month!5^17#1*51@
+num|2|num_children!7^14#1*67@num_balloon!7^13#1*67@
+pta|1|ptax!9^13#1*83@
+tax|1|TAX!9^12#1*83@
+tot|4|total_balloon!7^17#1*67@total_sale!9^16#1*83@total_cost!3^25#1*35@total!9^28#1*83@
+wal|1|wall_height!3^16#1*35@
+wid|1|width!3^14#1*35@
+wro|1|wrongdate!5^13#1*51@
+yea|1|year!5^18#1*51@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

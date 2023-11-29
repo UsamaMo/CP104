@@ -1,0 +1,20 @@
+"""
+-------------------------------------------------------
+[Lab 2,Task 1]
+-------------------------------------------------------
+Author:  Usama Mohiuddin
+ID:      212090340
+Email:   mohi0340@mylaurier.ca
+__updated__ = "2021-09-20"
+-------------------------------------------------------
+"""
+# constant
+FREEZINGINFARENHEIT = 32
+
+
+celsius = int(input("Enter the Temperature in Celsius (C): "))
+
+# conversion from Celsius to Fahrenheit Formula
+fahrenheit = 9 / 5 * celsius + FREEZINGINFARENHEIT
+
+print("The Amount of Temperature in Fahrenheit (F): ", fahrenheit)

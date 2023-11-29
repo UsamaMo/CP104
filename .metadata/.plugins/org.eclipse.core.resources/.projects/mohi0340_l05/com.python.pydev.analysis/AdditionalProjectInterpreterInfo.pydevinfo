@@ -1,0 +1,56 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\Usama Mohiuddin\Documents\CP104\.metadata\.plugins\org.eclipse.core.resources\.projects\mohi0340_l05\com.python.pydev.analysis\v2_indexcache
+functions|1635641680298724400|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l05\src\functions.py
+t01|1634955125986683500|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l05\src\t01.py
+t12|1634955060634186900|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l05\src\t12.py
+t14|1634955060260189000|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l05\src\t14.py
+t04|1634955061047083800|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l05\src\t04.py
+t08|1634955059919498000|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l05\src\t08.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+3=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l05\src\t01.py
+1=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l05\src\functions.py
+7=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l05\src\t12.py
+9=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l05\src\t14.py
+2=functions
+4=t01
+8=t12
+11=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l05\src\t04.py
+10=t14
+12=t04
+5=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l05\src\t08.py
+6=t08
+-- END DICTIONARY
+-- START TREE 1
+25
+adu|1|ADULT!1^22#1*19@
+clo|1|closest!1^50#5*18@
+day|1|day!3^19#1*35@
+ful|2|FULL_10YRS!1^13#1*19@FULL_4YRS!1^14#1*19@
+inf|1|INFANT!1^19#1*19@
+mag|2|magic_date!1^27#5*18@magic!3^24#1*35@
+mon|1|month!3^20#1*35@
+n|1|n!5^16#1*51@
+new|1|new_salary!7^21#1*67@
+num|1|numeral!5^19#1*51@
+oth|1|OTHERS!1^17#1*19@
+par|2|PART_4YRS!1^16#1*19@PART_10YRS!1^15#1*19@
+pay|1|pay_raise!1^126#5*18@
+pri|1|price!9^16#1*83@
+res|1|result!11^20#1*99@
+rom|1|roman_numeral!1^76#5*18@
+sal|1|salary!7^18#1*67@
+sen|1|SENIOR!1^20#1*19@
+sta|1|status!7^16#1*67@
+stu|1|STUDENT!1^21#1*19@
+tar|1|target!11^15#1*99@
+tic|1|ticket!1^167#5*18@
+v1|1|v1!11^16#1*99@
+v2|1|v2!11^17#1*99@
+yea|2|years!7^17#1*67@year!3^21#1*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

@@ -1,0 +1,38 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\Usama Mohiuddin\Documents\CP104\.metadata\.plugins\org.eclipse.core.resources\.projects\mohi0340_l07\com.python.pydev.analysis\v2_indexcache
+t10|1636165490296331500|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l07\src\t10.py
+functions|1636167448795352300|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l07\src\functions.py
+t01|1636167030607247500|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l07\src\t01.py
+t02|1636165491363155000|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l07\src\t02.py
+t04|1636165491022081500|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l07\src\t04.py
+t07|1636165490662029500|C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l07\src\t07.py
+-- END DISKCACHE
+-- START DICTIONARY
+8
+2=t01
+4=functions
+7=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l07\src\t02.py
+1=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l07\src\t01.py
+8=t02
+5=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l07\src\t04.py
+6=t04
+3=C:\Users\Usama Mohiuddin\Documents\CP104\mohi0340_l07\src\functions.py
+-- END DICTIONARY
+-- START TREE 1
+11
+cou|1|count!1^20#1*19@
+emp|1|employee_payroll!3^157#5*34@
+fin|1|final!5^18#1*51@
+hi_|1|hi_lo_game!3^22#5*34@
+hig|1|high!1^17#1*19@
+mea|1|meal_costs!3^105#5*34@
+ove|2|OVERTIME!3^15#1*35@OVERTIMERATE!3^16#1*35@
+pow|2|power_of_two!3^54#5*34@power!7^19#1*67@
+sum|1|sum_squares!3^81#5*34@
+tar|2|target!7^16#1*67@target!5^15#1*51@
+tax|1|TAXRATE!3^17#1*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE
